@@ -39,7 +39,7 @@
     "history": "^5.2.0",
     "jquery": "^3.6.0",
     "jsdom": "^19.0.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "meteor-node-stubs": "^1.1.0",
     "moment": "^2.29.1",
     "obce-okresy-kraje-slovenska": "git+https://github.com/acqsk/obce-okresy-kraje-slovenska.git",
